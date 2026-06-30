@@ -6,7 +6,7 @@ build:
   version: "1.0"
 
 designation:
-  message: "Welcome to Asset Management Designation related WEBHOOK (Updated) APIs"
+  message: "Welcome to Asset Management Designation related DOCKER APIs"
   onCallSupport:
     - (111) 102-7897
     - (111) 100-3214

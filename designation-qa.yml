@@ -5,7 +5,7 @@ spring:
 build:
   version: "3.0"
 
-company:
+designation:
   message: "Welcome to Asset Management Designation related QA APIs"
   onCallSupport:
     - (555) 777-4862

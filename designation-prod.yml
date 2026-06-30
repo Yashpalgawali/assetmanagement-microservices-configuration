@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: "1.0"
+
+company:
+  message: "Welcome to Asset Management Designation related PROD APIs"
+  onCallSupport:
+    - (111) 102-7897
+    - (111) 100-3214
+  contactDetails:
+    name : "Sumedh Pagare - Product Owner"
+    email : "{cipher}81d58bbdb81275e607c442fe2bd14656a25150062e1adcb021e4ef273a843196c7133dd174a2184dc976b584b56ef5ad"

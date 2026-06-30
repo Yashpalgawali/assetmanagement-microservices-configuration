@@ -5,7 +5,7 @@ spring:
 build:
   version: "2.0"
 
-company:
+designation:
   message: "Welcome to Asset Management Designation related local default APIs"
   onCallSupport:
     - (222) 222-4862

@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: "3.0"
+
+company:
+  message: "Welcome to Asset Management Designation related QA APIs"
+  onCallSupport:
+    - (555) 777-4862
+    - (555) 777-7414
+  contactDetails:
+    name : "Saksham Bankar - Quality Lead"
+    email : "{cipher}81d58bbdb81275e607c442fe2bd14656a25150062e1adcb021e4ef273a843196c7133dd174a2184dc976b584b56ef5ad"

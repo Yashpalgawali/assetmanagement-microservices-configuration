@@ -5,7 +5,7 @@ spring:
 build:
   version: "1.0"
 
-company:
+designation:
   message: "Welcome to Asset Management Designation related PROD APIs"
   onCallSupport:
     - (111) 102-7897

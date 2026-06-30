@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 designation:
-  message: "Welcome to Asset Management Designation related local default APIs"
+  message: "Welcome to Asset Management Designation related local APIs"
   onCallSupport:
     - (222) 222-4862
     - (222) 222-7414

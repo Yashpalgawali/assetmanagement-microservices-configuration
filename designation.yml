@@ -1,6 +1,5 @@
 build:
   version: "2.0"
-
 designation:
   message: "Welcome to Asset Management Designation related local default APIs"
   onCallSupport:
